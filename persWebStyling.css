@@ -26,6 +26,12 @@ p {
     margin-right: 10px;
 }
 
+.imgtyp2 {
+  height: 300px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
 .centered {
     text-align: center;
     margin-left: auto;
